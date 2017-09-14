@@ -1,10 +1,3 @@
-#Name:DING, Mu Cong
-#ID:20323458
-#Email:mcding@connect.ust.hk
-#Lab Section:LA3
-#Bonus (finished)
-
-
 #=====================#
 # THE SPACESHIP GAME #
 #=====================#
